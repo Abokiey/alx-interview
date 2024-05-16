@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 """prime numbeers"""
 
 def isWinner(x, nums):
